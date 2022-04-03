@@ -6,3 +6,5 @@ Reglas:<br/>
 🍓 Para reiniciar una partida , deberas actualizar la página.<br/>
 
 🤠 Disfrútalo 🤠
+
+https://kyanesdev.github.io/TaTeTi/
