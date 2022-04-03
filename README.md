@@ -2,7 +2,7 @@
 ## Apto para 2 jugadores
 
 Reglas:
-🍓 Deberá jugarse por turnos.
-🍓 Para reiniciar una partida , deberas actualizar la página.
+🍓 Deberá jugarse por turnos.<br/>
+🍓 Para reiniciar una partida , deberas actualizar la página.<br/>
 
 🤠 Disfrútalo 🤠
